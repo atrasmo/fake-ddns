@@ -1,5 +1,5 @@
 # fake-ddns
-A fake Synamic DNS
+A fake Dynamic DNS
 
 Python script send a message to Telegram channel with the IP address of PC running the script. Useful for server installed above an internet coonection with dynamic IP.
 
